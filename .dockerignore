@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 模型文件（太大，通过卷挂载）
+pretrained_models/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 测试和临时文件
+*.log
+*.tmp
+outputs/
+temp/
+
+# macOS
+.DS_Store
+
+# 文档（可选）
+*.md
+!README.md
+
+# PM2
+ecosystem.config.js
+
